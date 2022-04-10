@@ -1,7 +1,7 @@
-﻿// Задайте одномерный массив, заполненный случайными числами. 
-// Найдите сумму элементов, стоящих на нечётных позициях. 
+﻿// Задайте массив вещественных чисел. 
+// Найдите разницу между максимальным и минимальным элементов массива. 
 
-// Пример,     [3, 7, 23, 12] -> 26                  [-4, -6, 4, 67] -> 0
+// Пример,     [3, 7, 22, 2, 78] -> 76
 
 Console.Clear();
 
@@ -11,15 +11,18 @@ FillArray(arr);
 
 Console.Write(" -> ");
 
-int sumNegElemens = 0;
+int minValue = 100;
+int maxValue = 0;
 for (int index = 0; index < arr.Length; index++)
 {
-    if (index % 2 == 0)
-    {
-        sumNegElemens = sumNegElemens + arr[index];
-    }
+    if (arr[index] > maxValue) maxValue = arr[index];
 }
-Console.WriteLine($"Сумма элементов, стоящих на нечётных позициях = {sumNegElemens}");
+for (int index = 0; index < arr.Length; index++)
+{
+    if (arr[index] < minValue) minValue = arr[index];
+}
+
+Console.WriteLine($"Разница между максимальным и минимальным элементом массива = {maxValue - minValue}");
 
 
 
@@ -36,7 +39,7 @@ void FindArray(int[] array)
 {
     for (int index = 0; index < array.Length; index++)
     {
-        array[index] = new Random().Next(-100, 100);
+        array[index] = new Random().Next(1, 100);
     }
 }
 
