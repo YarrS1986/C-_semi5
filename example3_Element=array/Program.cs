@@ -9,15 +9,22 @@ FillArray(arr);
 Console.Write("Введи число = ");
 string Number = Console.ReadLine();
 int num = int.Parse(Number);
+Exist(arr, num);
 
-for (int index = 0; index < arr.Length; index++)
-{
-    if (arr[index] == num) Console.WriteLine($"Число {num} найдено в массиве ! ");
-}
-
+if (Exist(arr, num)) Console.WriteLine($"Число {num} найдено в массиве ! ");
+else Console.WriteLine($"Число {num} отсутствует ! ");
 
 
 //--------------------------------------------
+bool Exist(int[] arr, int element)
+{
+    for (int index = 0; index < arr.Length; index++)
+    {
+        if (arr[index] == element) return true;
+    }
+    return false;
+}
+
 void FindArray(int[] array)
 {
     for (int index = 0; index < array.Length; index++)
