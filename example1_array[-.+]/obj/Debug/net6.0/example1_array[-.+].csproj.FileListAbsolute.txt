@@ -1,0 +1,15 @@
+C:\Users\St.Raindic\Documents\Учеба\GeekBrains\4 Знакомство с языками программирования\Семинар 5. Знакомство с C#\example1_array[-.+]\bin\Debug\net6.0\example1_array[-.+].exe
+C:\Users\St.Raindic\Documents\Учеба\GeekBrains\4 Знакомство с языками программирования\Семинар 5. Знакомство с C#\example1_array[-.+]\bin\Debug\net6.0\example1_array[-.+].deps.json
+C:\Users\St.Raindic\Documents\Учеба\GeekBrains\4 Знакомство с языками программирования\Семинар 5. Знакомство с C#\example1_array[-.+]\bin\Debug\net6.0\example1_array[-.+].runtimeconfig.json
+C:\Users\St.Raindic\Documents\Учеба\GeekBrains\4 Знакомство с языками программирования\Семинар 5. Знакомство с C#\example1_array[-.+]\bin\Debug\net6.0\example1_array[-.+].dll
+C:\Users\St.Raindic\Documents\Учеба\GeekBrains\4 Знакомство с языками программирования\Семинар 5. Знакомство с C#\example1_array[-.+]\bin\Debug\net6.0\example1_array[-.+].pdb
+C:\Users\St.Raindic\Documents\Учеба\GeekBrains\4 Знакомство с языками программирования\Семинар 5. Знакомство с C#\example1_array[-.+]\obj\Debug\net6.0\example1_array[-.+].csproj.AssemblyReference.cache
+C:\Users\St.Raindic\Documents\Учеба\GeekBrains\4 Знакомство с языками программирования\Семинар 5. Знакомство с C#\example1_array[-.+]\obj\Debug\net6.0\example1_array[-.+].GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\St.Raindic\Documents\Учеба\GeekBrains\4 Знакомство с языками программирования\Семинар 5. Знакомство с C#\example1_array[-.+]\obj\Debug\net6.0\example1_array[-.+].AssemblyInfoInputs.cache
+C:\Users\St.Raindic\Documents\Учеба\GeekBrains\4 Знакомство с языками программирования\Семинар 5. Знакомство с C#\example1_array[-.+]\obj\Debug\net6.0\example1_array[-.+].AssemblyInfo.cs
+C:\Users\St.Raindic\Documents\Учеба\GeekBrains\4 Знакомство с языками программирования\Семинар 5. Знакомство с C#\example1_array[-.+]\obj\Debug\net6.0\example1_array[-.+].csproj.CoreCompileInputs.cache
+C:\Users\St.Raindic\Documents\Учеба\GeekBrains\4 Знакомство с языками программирования\Семинар 5. Знакомство с C#\example1_array[-.+]\obj\Debug\net6.0\example1_array[-.+].dll
+C:\Users\St.Raindic\Documents\Учеба\GeekBrains\4 Знакомство с языками программирования\Семинар 5. Знакомство с C#\example1_array[-.+]\obj\Debug\net6.0\refint\example1_array[-.+].dll
+C:\Users\St.Raindic\Documents\Учеба\GeekBrains\4 Знакомство с языками программирования\Семинар 5. Знакомство с C#\example1_array[-.+]\obj\Debug\net6.0\example1_array[-.+].pdb
+C:\Users\St.Raindic\Documents\Учеба\GeekBrains\4 Знакомство с языками программирования\Семинар 5. Знакомство с C#\example1_array[-.+]\obj\Debug\net6.0\example1_array[-.+].genruntimeconfig.cache
+C:\Users\St.Raindic\Documents\Учеба\GeekBrains\4 Знакомство с языками программирования\Семинар 5. Знакомство с C#\example1_array[-.+]\obj\Debug\net6.0\ref\example1_array[-.+].dll
